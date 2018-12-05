@@ -9,12 +9,12 @@
 下拉框输入数据：
 
 HTML文本：
-    <select name="cars">
+    <!-- <select name="cars">
       <option value ="volvo">沃尔沃</option>
       <option value ="bmw">宝马</option>
       <option value="benz">奔驰</option>
       <option value="audi">奥迪</option>
-    </select>
+    </select> -->
     
 python操作：
 
